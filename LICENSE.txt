@@ -1,0 +1,14 @@
+© 2025 Ruben Gomez Sandoval. All rights reserved.
+
+This work, including all concepts, descriptions, and technical proposals contained herein,
+may not be reproduced, copied, distributed, implemented, patented, or used in any form
+without the express written permission of the author.
+
+No part of this document or its associated files may be modified, adapted, or used for
+derivative works or commercial purposes without prior authorization.
+
+This work was assisted by an AI system (ChatGPT by OpenAI), based in the United States,
+under the full direction and authorship of Ruben Gomez Sandoval.
+
+Published under the U.S. copyright framework for international recognition.
+This document is protected by applicable copyright law in all Berne Convention member countries.
