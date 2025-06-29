@@ -1,7 +1,6 @@
 # Quantum Communication System Based on Temporal Synchronization and Correlated Measurement
 
-**Author:** Ruben Gomez Sandoval  
-**Collaborator:** AI Technical Assistance (ChatGPT, U.S.-based)  
+**Author:** Ruben Gomez Sandoval   
 **Date:** 2025-06-29
 
 ---
