@@ -23,3 +23,14 @@ Published under the U.S. copyright framework for international recognition.
 ## License
 
 All rights reserved. This work is not open source and may not be used or modified without explicit written authorization from the author. See the LICENSE.txt file for details.
+
+---
+
+## Markdown
+
+---
+
+## 🔐 File Integrity
+
+A SHA-256 hash of the original PDF is included in `HASH.txt` for public verification.
+
